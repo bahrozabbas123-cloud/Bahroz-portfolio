@@ -5,6 +5,8 @@ A scroll-driven personal portfolio for **Bahroz Abbas**, a frontend-focused web 
 The concept: **a portfolio that assembles itself as you scroll.** Sections build piece by piece, like the inside of a mechanical watch being revealed, and settle into a clean, readable final state.
 
 <!-- Add a preview image or GIF here, e.g. ![Preview](./preview.png) -->
+DEPLOYED PROJECT
+https://bahrozportfolio.vercel.app/
 
 ## Features
 
